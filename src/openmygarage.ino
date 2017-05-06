@@ -1,8 +1,9 @@
 /*
  * Project openmygarage
  * Description:
- * Author:
- * Date:
+ * Author: Glenn Ellis
+ * Date: 05/05/2017
+ * @todo add webhooks to remotely control
  */
 
 #include "GOpener.h"
